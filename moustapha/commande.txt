@@ -1,0 +1,12 @@
+hp@hp-PC MINGW64 ~/Desktop
+$ mkdir moustapha
+
+hp@hp-PC MINGW64 ~/Desktop
+$ cd moustapha
+
+hp@hp-PC MINGW64 ~/Desktop/moustapha
+$ touch commande.txt
+
+hp@hp-PC MINGW64 ~/Desktop/moustapha
+$ nano commande.txt
+
